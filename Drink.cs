@@ -2,8 +2,9 @@
 {
     abstract class Drink
     {
-        public abstract string GetDescription();
+        protected string _type;
+        protected char _size;
 
-        public abstract float GetPrice();
+        public abstract string GetSummary();
     }
 }

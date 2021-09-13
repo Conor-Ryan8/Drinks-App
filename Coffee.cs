@@ -2,16 +2,14 @@
 {
     class Coffee : Drink
     {
-        public Coffee(){}
-
-        public override string GetDescription()
+        public Coffee(char size)
         {
-            return "Coffee";
+            _type = "Coffee";
+            _size = size;
         }
-
-        public override float GetPrice()
+        public override string GetSummary()
         {
-            return 2.00f;
+            return "Coffee - " + _size;
         }
     }
 }

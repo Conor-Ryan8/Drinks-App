@@ -1,15 +1,15 @@
 ﻿namespace DrinksApp
 {
-    class Tea : Drink
+    class Chocolate : Drink
     {
-        public Tea(char size)
+        public Chocolate(char size)
         {
-            _type = "Tea";
+            _type = "Hot Chocolate";
             _size = size;
         }
         public override string GetSummary()
         {
-            return "Tea - " + _size;
+            return "Hot Chocolate - " + _size;
         }
     }
 }

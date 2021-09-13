@@ -8,3 +8,13 @@ C:\Users\Conor\source\repos\Final Exam Part A\obj\Debug\Final Exam Part A.exe
 C:\Users\Conor\source\repos\Final Exam Part A\obj\Debug\Final Exam Part A.pdb
 C:\Users\Conor\source\repos\Final Exam Part A\obj\Debug\DrinksApp.csprojAssemblyReference.cache
 C:\Users\Conor\source\repos\Final Exam Part A\obj\Debug\DrinksApp.FrmDrinks.resources
+C:\Users\Conor\source\repos\Final Exam Part B\bin\Debug\Final Exam Part A.exe.config
+C:\Users\Conor\source\repos\Final Exam Part B\bin\Debug\Final Exam Part A.exe
+C:\Users\Conor\source\repos\Final Exam Part B\bin\Debug\Final Exam Part A.pdb
+C:\Users\Conor\source\repos\Final Exam Part B\obj\Debug\DrinksApp.csprojAssemblyReference.cache
+C:\Users\Conor\source\repos\Final Exam Part B\obj\Debug\DrinksApp.FrmDrinks.resources
+C:\Users\Conor\source\repos\Final Exam Part B\obj\Debug\Final_Exam_Part_A.Properties.Resources.resources
+C:\Users\Conor\source\repos\Final Exam Part B\obj\Debug\DrinksApp.csproj.GenerateResource.cache
+C:\Users\Conor\source\repos\Final Exam Part B\obj\Debug\DrinksApp.csproj.CoreCompileInputs.cache
+C:\Users\Conor\source\repos\Final Exam Part B\obj\Debug\Final Exam Part A.exe
+C:\Users\Conor\source\repos\Final Exam Part B\obj\Debug\Final Exam Part A.pdb
