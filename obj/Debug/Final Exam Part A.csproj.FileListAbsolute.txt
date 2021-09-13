@@ -1,0 +1,10 @@
+C:\Users\Conor\source\repos\Final Exam Part A\bin\Debug\Final Exam Part A.exe.config
+C:\Users\Conor\source\repos\Final Exam Part A\bin\Debug\Final Exam Part A.exe
+C:\Users\Conor\source\repos\Final Exam Part A\bin\Debug\Final Exam Part A.pdb
+C:\Users\Conor\source\repos\Final Exam Part A\obj\Debug\Final Exam Part A.csprojAssemblyReference.cache
+C:\Users\Conor\source\repos\Final Exam Part A\obj\Debug\Final_Exam_Part_A.Properties.Resources.resources
+C:\Users\Conor\source\repos\Final Exam Part A\obj\Debug\Final Exam Part A.csproj.GenerateResource.cache
+C:\Users\Conor\source\repos\Final Exam Part A\obj\Debug\Final Exam Part A.csproj.CoreCompileInputs.cache
+C:\Users\Conor\source\repos\Final Exam Part A\obj\Debug\Final Exam Part A.exe
+C:\Users\Conor\source\repos\Final Exam Part A\obj\Debug\Final Exam Part A.pdb
+C:\Users\Conor\source\repos\Final Exam Part A\obj\Debug\Final_Exam_Part_A.FrmCoffee.resources
